@@ -1,42 +1,17 @@
 # 2021-09-lisbon-natascript-tips
+
 NataScript - Lisbon - Sept 2021 - Welcome to our home! Please, share links, tips, and everything else that can help us improve ourselves in this amazing journey of learning and growing together
 
-Please put your links about CSS here, using this syntax: ```- [Title/tip about the link](https://thelink-itself-is-here.com)```. Use the first link in React > Links as a model to add new links:
+Please put your links using this syntax: `- [Title/tip about the link](https://thelink-itself-is-here.com)`.
 
+## [CSS](./css/README.md)
 
-## React
+## [HTML](./html/README.md)
 
-### Links
+## [JavaScript](./javascript/README.md)
 
-- [React official webpage](https://reactjs.org/)
+## [ReactJS](./react/README.md)
 
-### Tips
+## [NodeJS](./node/README.md)
 
-
-## CSS
-
-### Links
-
-### Tips
-
-## JavaScript 
-
-### Links
-
-### Tips
-
-## HTML
-
-### Links
-
-### Tips
-
-
-
-
-
-## Other resources
-
-### Images
-
-### Videos
+## [Other](./other/README.md) tips resources
