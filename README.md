@@ -14,4 +14,4 @@ Please put your links using this syntax: `- [Title/tip about the link](https://t
 
 ## [NodeJS](./node/README.md)
 
-## [Other](./other/README.md) tips resources
+## [Other tips](./other/README.md)
